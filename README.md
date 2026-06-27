@@ -4,7 +4,8 @@ Professional vibe coder. I ship macOS apps, web apps, and small tools around AI 
 
 #### What I'm building
 - **[NotchStatus](https://github.com/RaacTW/NotchStatus)** is a macOS menu-bar app that shows Claude Code's live status right around your notch.
-- A few web and mobile projects (WeSolve, BringGo Ship).
+- **[WeSolve+](https://wesolveapp.com)** is a mobile app.
+- BringGo Ship, premium shipping from the US to Mexico.
 
 #### Tech I work with
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
@@ -16,6 +17,7 @@ Professional vibe coder. I ship macOS apps, web apps, and small tools around AI 
 #### Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merterarslan/)
 [![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?logo=gumroad&logoColor=black)](https://8373761305727.gumroad.com)
+[![Website](https://img.shields.io/badge/Website-wesolveapp.com-111?logo=safari&logoColor=white)](https://wesolveapp.com)
 
 <br>
 
